@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888736338634",
+    "project_id": "jobtest-sokhib",
+    "storage_bucket": "jobtest-sokhib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888736338634:android:78a46be9a43fd80cb5da33",
+        "android_client_info": {
+          "package_name": "uz.sokhib.job_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjBzhZ4Cy5h7TcIUsiJZ08bcLVW2qkps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
